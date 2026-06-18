@@ -1,0 +1,31 @@
+{
+  "name": "malvin-c-xmd",
+  "version": "2.0.0",
+  "description": "WhatsApp Multi-Device Bot powered by Handsome Tech 🇿🇼",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "axios": "^1.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^3.3.1",
+    "chalk": "^5.3.0",
+    "moment-timezone": "^0.5.43",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0",
+    "file-type": "^18.5.0",
+    "cfonts": "^3.2.0",
+    "yargs": "^17.7.2",
+    "@hapi/boom": "^10.0.1"
+  },
+  "author": "Handsome Tech 🇿🇼",
+  "license": "MIT"
+}
